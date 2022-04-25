@@ -1,6 +1,6 @@
 # CSS Bootstrap
 
-## Code Libraries and Frameworks
+## Code Libraries and Frameworks  
 
 Oftentimes, developers find that they have the same problems in many projects.
 
